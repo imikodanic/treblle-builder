@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa5ed5e-55e0-4df4-ad99-b19aace37899" name="Changes" comment="feat: add builder io">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/treblle-builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/[...page]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder-registry.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Counter/Counter.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Counter/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/builder.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +68,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735920511733</updated>
-      <workItem from="1735920513506" duration="1129000" />
+      <workItem from="1735920513506" duration="1546000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: add builder io">
+      <option name="closed" value="true" />
+      <created>1735921645109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735921645109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
