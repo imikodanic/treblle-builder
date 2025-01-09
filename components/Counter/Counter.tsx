@@ -18,12 +18,12 @@ function Counter({ initialCount = 99 }: CounterProps) {
   };
 
   return (
-    <div className={styles.counter}>
-      <button className={styles.btn} onClick={decrement}>
+    <div className={styles["counter"]}>
+      <button className={styles["btn"]} onClick={decrement}>
         -
       </button>
-      <span className={styles.count}>{count}</span>
-      <button className={styles.btn} onClick={increment}>
+      <span className={styles["count"]}>{count}</span>
+      <button className={styles["btn"]} onClick={increment}>
         +
       </button>
     </div>

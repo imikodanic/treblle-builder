@@ -1,0 +1,7 @@
+@layer reset, base, tokens, recipes, utilities;
+
+html {
+    /*overscroll-behavior: none; This messes up scrolling on Safari*/
+    scroll-behavior: smooth;
+    background-color: #01041a;
+}
